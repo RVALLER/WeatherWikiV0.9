@@ -1,6 +1,6 @@
 # WeatherWikiV0.9
 
-- Designed a full working weather terminology search catalogue with a pre-build dictionary of keys and definitions (constantly being expanded upon)
+- Designed a full working weather terminology search catalogue with a pre-built dictionary of keys and definitions (constantly being expanded upon)
 - Uses text-match package to best match user search criteria with a working term in the dictionary
 - Added simplistic, small-scale UI for easier usability and smoother experience
 
